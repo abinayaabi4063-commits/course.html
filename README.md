@@ -1,2 +1,2 @@
-# course.html
+sample-html-exercise
 to save
